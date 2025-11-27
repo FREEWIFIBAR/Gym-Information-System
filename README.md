@@ -6,12 +6,8 @@ El Sistema de Información consiste en una aplicación de escritorio bajo arquit
 
 Tecnologías empleadas:
 
-Entorno de desarrollo integrado (IDE), preferiblemente NetBeans
-
-Lenguaje de programación Java
-
-Librería gráfica Swing
-
-Sistemas Gestores de Bases de Datos: Oracle y MariaDB
-
-Herramienta de mapeo objeto-relacional: Hibernate
+- Entorno de desarrollo integrado (IDE), preferiblemente NetBeans
+- Lenguaje de programación Java
+- Librería gráfica Swing
+- Sistemas Gestores de Bases de Datos: Oracle y MariaDB
+- Herramienta de mapeo objeto-relacional: Hibernate
